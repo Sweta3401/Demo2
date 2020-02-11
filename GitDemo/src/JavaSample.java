@@ -6,5 +6,9 @@ public class JavaSample {
 		// code written by Sweta
 
 	}
+	
+	public void Testcase1() {
+		// i will write my test case  code here.
+	}
 
 }

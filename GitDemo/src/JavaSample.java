@@ -11,4 +11,7 @@ public class JavaSample {
 		// i will write my test case  code here.
 	}
 
+	public void Testcase2(){
+		// Test case 2 addes
+	}
 }
